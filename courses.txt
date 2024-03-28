@@ -1,0 +1,34 @@
+STABLE AI:0#ENEE2054#Electrical Engineering/Python Script
+Flask Introduction:4#COMP5416#Computer Science/topic = random.choice(topics)
+Introduction Introduction:6#ENEE2617#Electrical Engineering/topic = random.choice(topics)
+STABLE Introduction:5#ENEE4574#Electrical Engineering/Why are you looking here?
+C DJANGO:0#ENEE3013#Electrical Engineering/this is a topic
+NETWORKS R:3#COMP2376#Computer Science/Python Script
+Circuit Analysis JAVA:4#ENEE5413#Electrical Engineering/Why are you looking here?
+Introduction Introduction:2#ENEE3244#Electrical Engineering/Some Random topic
+DJANGO R:8#ENEE5808#Electrical Engineering/Some Random topic
+JAVA AI:0#COMP4032#Computer Science/this is a topic
+ELECTRONICS R:6#COMP3637#Computer Science/Time Complexity
+STABLE AI:0#ENEE2054#Electrical Engineering/Python Script
+Flask Introduction:4#COMP5416#Computer Science/topic = random.choice(topics)
+Introduction Introduction:6#ENEE2617#Electrical Engineering/topic = random.choice(topics)
+STABLE Introduction:5#ENEE4574#Electrical Engineering/Why are you looking here?
+C DJANGO:0#ENEE3013#Electrical Engineering/this is a topic
+NETWORKS R:3#COMP2376#Computer Science/Python Script
+Circuit Analysis JAVA:4#ENEE5413#Electrical Engineering/Why are you looking here?
+Introduction Introduction:2#ENEE3244#Electrical Engineering/Some Random topic
+DJANGO R:8#ENEE5808#Electrical Engineering/Some Random topic
+JAVA AI:0#COMP4032#Computer Science/this is a topic
+ELECTRONICS R:6#COMP3637#Computer Science/Time Complexity
+STABLE AI:0#ENEE2054#Electrical Engineering/Python Script
+Flask Introduction:4#COMP5416#Computer Science/topic = random.choice(topics)
+Introduction Introduction:6#ENEE2617#Electrical Engineering/topic = random.choice(topics)
+STABLE Introduction:5#ENEE4574#Electrical Engineering/Why are you looking here?
+C DJANGO:0#ENEE3013#Electrical Engineering/this is a topic
+NETWORKS R:3#COMP2376#Computer Science/Python Script
+Circuit Analysis JAVA:4#ENEE5413#Electrical Engineering/Why are you looking here?
+Introduction Introduction:2#ENEE3244#Electrical Engineering/Some Random topic
+DJANGO R:8#ENEE5808#Electrical Engineering/Some Random topic
+JAVA AI:0#COMP4032#Computer Science/this is a topic
+ELECTRONICS R:6#COMP3637#Computer Science/Time Complexity
+STABLE AI:0#ENEE2054#Electrical Engineering/Python Script
